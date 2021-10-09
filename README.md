@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Project 3 - TwitterClient
 
-**Name of your app** is a basic twitter app to read your tweets.
+TwitterClient is a basic twitter app to read your tweets.
 
 Time spent: **X** hours spent in total
 
